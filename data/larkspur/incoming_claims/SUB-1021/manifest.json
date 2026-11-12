@@ -1,0 +1,31 @@
+{
+  "submission_id": "SUB-1021",
+  "channel": "web_form",
+  "received_at": "2026-10-30T10:15:48-04:00",
+  "files": [
+    {
+      "name": "fnol_web_form.pdf",
+      "bytes": 45483
+    },
+    {
+      "name": "web_submission.json",
+      "bytes": 1163
+    },
+    {
+      "name": "IMG_7781.jpg",
+      "bytes": 423005
+    },
+    {
+      "name": "IMG_7782.jpg",
+      "bytes": 423552
+    },
+    {
+      "name": "RivertonBuilders_Estimate_RB-26-219.pdf",
+      "bytes": 45630
+    },
+    {
+      "name": "AshfordTree_Invoice_AT-5530.pdf",
+      "bytes": 45088
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "submission_id": "SUB-1007",
+  "channel": "email",
+  "received_at": "2026-10-02T12:31:09-04:00",
+  "files": [
+    {
+      "name": "intake_email.txt",
+      "bytes": 697
+    },
+    {
+      "name": "IMG_6120.jpg",
+      "bytes": 420732
+    },
+    {
+      "name": "MCC_Estimate_RO-26-4290.pdf",
+      "bytes": 45908
+    },
+    {
+      "name": "payment_confirmation.png",
+      "bytes": 57348
+    }
+  ]
+}

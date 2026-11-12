@@ -1,0 +1,27 @@
+{
+  "submission_id": "SUB-1014",
+  "channel": "email",
+  "received_at": "2026-10-29T07:55:16-04:00",
+  "files": [
+    {
+      "name": "intake_email.txt",
+      "bytes": 1129
+    },
+    {
+      "name": "IMG_2841.jpg",
+      "bytes": 422790
+    },
+    {
+      "name": "IMG_2842.jpg",
+      "bytes": 414937
+    },
+    {
+      "name": "IMG_2843.jpg",
+      "bytes": 414584
+    },
+    {
+      "name": "CedarLane_Estimate_CL-26-338.pdf",
+      "bytes": 45953
+    }
+  ]
+}

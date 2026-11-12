@@ -1,0 +1,23 @@
+{
+  "submission_id": "SUB-1011",
+  "channel": "email",
+  "received_at": "2026-10-24T14:05:37-04:00",
+  "files": [
+    {
+      "name": "intake_email.txt",
+      "bytes": 783
+    },
+    {
+      "name": "IMG_5501.jpg",
+      "bytes": 434302
+    },
+    {
+      "name": "IMG_5502.jpg",
+      "bytes": 426084
+    },
+    {
+      "name": "RAB_Estimate_26-1176.pdf",
+      "bytes": 45603
+    }
+  ]
+}

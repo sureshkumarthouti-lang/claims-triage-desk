@@ -1,0 +1,14 @@
+{"id": "PII-01", "input": "My SSN if you need it for the payment: 921-55-0187.", "expected_output": "My SSN if you need it for the payment: XXX-XX-0187.", "pii_types": ["ssn"]}
+{"id": "PII-02", "input": "Please direct deposit to routing 539127440, account 4417820963.", "expected_output": "Please direct deposit to routing [ROUTING REDACTED], account [ACCOUNT REDACTED].", "pii_types": ["bank_routing_number", "bank_account_number"]}
+{"id": "PII-03", "input": "Angela's date of birth 04/12/1984, SSN 912-48-3307.", "expected_output": "Angela's date of birth [DOB REDACTED], SSN XXX-XX-3307.", "pii_types": ["date_of_birth", "ssn"]}
+{"id": "PII-04", "input": "Health insurance BrightPath Health, member ID BPH-7731-0042-88.", "expected_output": "Health insurance BrightPath Health, member ID [HEALTH ID REDACTED].", "pii_types": ["health_insurance_id"]}
+{"id": "PII-05", "input": "Diagnosis: S16.1XXA Strain of muscle at neck level.", "expected_output": "Diagnosis: [MEDICAL INFO REDACTED].", "pii_types": ["diagnosis"]}
+{"id": "PII-06", "input": "Medical record no. MRN 00418823", "expected_output": "Medical record no. [MRN REDACTED]", "pii_types": ["medical_record_number"]}
+{"id": "PII-07", "input": "Driver: Darnell Price, VA DL T61-55-0918", "expected_output": "Driver: Darnell Price, [DL REDACTED]", "pii_types": ["drivers_license_number"]}
+{"id": "PII-08", "input": "Call me at (804) 555-0112 or priya.raman@example.com.", "expected_output": "Call me at (804) 555-0112 or priya.raman@example.com.", "pii_types": []}
+{"id": "PII-09", "input": "Policy LM-PA-2025-104233, VIN 7FARW2H83ME014472.", "expected_output": "Policy LM-PA-2025-104233, VIN 7FARW2H83ME014472.", "pii_types": []}
+{"id": "PII-10", "input": "Card used: VISA ****4417", "expected_output": "Card used: VISA ****4417", "pii_types": []}
+{"id": "PII-11", "input": "Her DOB is 1984-04-12 and she was seen in the ER.", "expected_output": "Her DOB is [DOB REDACTED] and she was seen in the ER.", "pii_types": ["date_of_birth"]}
+{"id": "PII-12", "input": "SSN 921550187 (no dashes)", "expected_output": "SSN XXX-XX-0187 (no dashes)", "pii_types": ["ssn"]}
+{"id": "PII-13", "input": "The repair cost is $1,944.10 at 1400 Commerce Way.", "expected_output": "The repair cost is $1,944.10 at 1400 Commerce Way.", "pii_types": []}
+{"id": "PII-14", "input": "Patient was prescribed cyclobenzaprine for cervical strain.", "expected_output": "Patient was prescribed [MEDICAL INFO REDACTED] for [MEDICAL INFO REDACTED].", "pii_types": ["diagnosis"]}

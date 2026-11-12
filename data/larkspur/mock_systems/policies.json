@@ -1,0 +1,1167 @@
+[
+  {
+    "policy_number": "LM-PA-2025-104233",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Priya Raman"
+    ],
+    "mailing_address": "2207 Willow Bend Ct, Ashford, VA 23991",
+    "phone": "(804) 555-0112",
+    "email": "priya.raman@example.com",
+    "term_effective": "2026-08-01",
+    "term_expiration": "2027-02-01",
+    "original_inception": "2025-02-01",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2021,
+        "make": "Honda",
+        "model": "CR-V EX",
+        "vin": "7FARW2H83ME014472",
+        "garaging_zip": "23991",
+        "plate": "VA UKP-2207"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 500,
+      "comprehensive_deductible": 250
+    },
+    "endorsements": [
+      {
+        "code": "LM-PA-FG",
+        "name": "Full Glass Coverage"
+      },
+      {
+        "code": "LM-PA-RR",
+        "name": "Rental Reimbursement",
+        "limit": "$40/day, $1,200 max"
+      }
+    ],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-PA-2024-088190",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Marcus Bell"
+    ],
+    "mailing_address": "58 Carriage Hill Rd, Millbrook, VA 23990",
+    "phone": "(804) 555-0123",
+    "email": "mbell.home@example.net",
+    "term_effective": "2026-07-10",
+    "term_expiration": "2027-01-10",
+    "original_inception": "2024-07-10",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2019,
+        "make": "Toyota",
+        "model": "Camry SE",
+        "vin": "4T1B11HK5KU238810",
+        "garaging_zip": "23990",
+        "plate": "VA TBR-5814"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 500,
+      "comprehensive_deductible": 500
+    },
+    "endorsements": [
+      {
+        "code": "LM-PA-RR",
+        "name": "Rental Reimbursement",
+        "limit": "$40/day, $1,200 max"
+      }
+    ],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-PA-2023-071552",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Elena Sokolova"
+    ],
+    "mailing_address": "911 Harbor View Dr, Riverton, VA 23992",
+    "phone": "(804) 555-0134",
+    "email": "elena.sokolova@example.com",
+    "term_effective": "2026-09-05",
+    "term_expiration": "2027-03-05",
+    "original_inception": "2023-03-05",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2022,
+        "make": "Subaru",
+        "model": "Outback Premium",
+        "vin": "4S4BTACC2N3157726",
+        "garaging_zip": "23992",
+        "plate": "VA TXR-2290"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 500,
+      "comprehensive_deductible": 500
+    },
+    "endorsements": [
+      {
+        "code": "LM-PA-RR",
+        "name": "Rental Reimbursement",
+        "limit": "$40/day, $1,200 max"
+      }
+    ],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-PA-2025-112907",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "David Okafor",
+      "Angela Okafor"
+    ],
+    "mailing_address": "4410 Stonegate Pl, Millbrook, VA 23990",
+    "phone": "(804) 555-0145",
+    "email": "d.okafor@example.com",
+    "term_effective": "2026-05-20",
+    "term_expiration": "2026-11-20",
+    "original_inception": "2025-05-20",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2020,
+        "make": "Toyota",
+        "model": "Highlander XLE",
+        "vin": "5TDGZRBH8LS052291",
+        "garaging_zip": "23990",
+        "plate": "VA KDO-4410"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 500,
+      "comprehensive_deductible": 500
+    },
+    "endorsements": [
+      {
+        "code": "LM-PA-RR",
+        "name": "Rental Reimbursement",
+        "limit": "$40/day, $1,200 max"
+      }
+    ],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-PA-2022-064410",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Robert Chen"
+    ],
+    "mailing_address": "77 Laurel Ridge Way, Ashford, VA 23991",
+    "phone": "(804) 555-0156",
+    "email": "rchen77@example.net",
+    "term_effective": "2026-06-01",
+    "term_expiration": "2026-12-01",
+    "original_inception": "2022-06-01",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2014,
+        "make": "Honda",
+        "model": "Civic LX",
+        "vin": "19XFB2F58EE063118",
+        "garaging_zip": "23991",
+        "plate": "VA RCX-7714"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 1000,
+      "comprehensive_deductible": 500
+    },
+    "endorsements": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "lienholders": [
+      {
+        "name": "Ashford Community Credit Union",
+        "vehicle": 1
+      }
+    ]
+  },
+  {
+    "policy_number": "LM-PA-2025-099318",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Tasha Greene"
+    ],
+    "mailing_address": "1300 Parkside Ave Apt 4B, Riverton, VA 23992",
+    "phone": "(804) 555-0167",
+    "email": "tasha.greene@example.com",
+    "term_effective": "2026-08-15",
+    "term_expiration": "2027-02-15",
+    "original_inception": "2025-02-15",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2020,
+        "make": "Hyundai",
+        "model": "Elantra SEL",
+        "vin": "5NPD84LF4LH512970",
+        "garaging_zip": "23992",
+        "plate": "VA LMN-8820"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 500,
+      "comprehensive_deductible": 500
+    },
+    "endorsements": [
+      {
+        "code": "LM-PA-RR",
+        "name": "Rental Reimbursement",
+        "limit": "$40/day, $1,200 max"
+      }
+    ],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-PA-2025-120044",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "CANCELLED",
+    "named_insureds": [
+      "Kevin Doyle"
+    ],
+    "mailing_address": "3 Quarry Rd, Brookhaven, VA 23993",
+    "phone": "(804) 555-0178",
+    "email": "kdoyle.va@example.com",
+    "term_effective": "2026-07-01",
+    "term_expiration": "2027-01-01",
+    "original_inception": "2025-07-01",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2017,
+        "make": "Chevrolet",
+        "model": "Malibu LT",
+        "vin": "1G1ZE5ST3HF190452",
+        "garaging_zip": "23993",
+        "plate": "VA KDV-3301"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 500,
+      "comprehensive_deductible": 500
+    },
+    "endorsements": [],
+    "agent": "DIRECT",
+    "cancellation": {
+      "effective": "2026-09-14 12:01 AM",
+      "reason": "Nonpayment of premium",
+      "notice_mailed": "2026-09-01",
+      "reinstated": false
+    },
+    "payment_history": [
+      {
+        "date": "2026-07-01",
+        "amount": 412.5,
+        "status": "PAID",
+        "note": "Installment 1 of 6"
+      },
+      {
+        "date": "2026-08-01",
+        "amount": 412.5,
+        "status": "MISSED",
+        "note": "Installment 2 due; not received"
+      },
+      {
+        "date": "2026-09-01",
+        "amount": null,
+        "status": "NOTICE",
+        "note": "Cancellation notice mailed; cancellation effective 2026-09-14 12:01 AM"
+      },
+      {
+        "date": "2026-10-01",
+        "amount": 412.5,
+        "status": "RECEIVED_AFTER_CANCELLATION",
+        "note": "Online payment received after cancellation date; not accepted for reinstatement; refund issued 2026-10-06"
+      }
+    ],
+    "change_history": [],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-PA-2024-093371",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Sandra Whitfield"
+    ],
+    "mailing_address": "18 Fox Hollow Rd, Ashford, VA 23991",
+    "phone": "(804) 555-0189",
+    "email": "swhitfield@example.org",
+    "term_effective": "2026-10-10",
+    "term_expiration": "2027-04-10",
+    "original_inception": "2024-10-10",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2011,
+        "make": "Ford",
+        "model": "Ranger XLT",
+        "vin": "1FTKR1ED5BPA81920",
+        "garaging_zip": "23991",
+        "plate": "VA SWF-1811"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": null,
+      "comprehensive_deductible": null
+    },
+    "endorsements": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-PA-2025-117760",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Jamal Carter"
+    ],
+    "mailing_address": "620 Elm St Apt 12, Millbrook, VA 23990",
+    "phone": "(804) 555-0191",
+    "email": "jcarter.mb@example.com",
+    "term_effective": "2026-06-25",
+    "term_expiration": "2026-12-25",
+    "original_inception": "2025-06-25",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2018,
+        "make": "Nissan",
+        "model": "Altima 2.5 S",
+        "vin": "1N4BL4BV6JC201145",
+        "garaging_zip": "23990",
+        "plate": "VA JMC-6201"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 500,
+      "comprehensive_deductible": 500
+    },
+    "endorsements": [],
+    "agent": "FR",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-PA-2026-130512",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Brandon Mills"
+    ],
+    "mailing_address": "245 Old Mill Rd, Ashford, VA 23991",
+    "phone": "(804) 555-0102",
+    "email": "bmills.auto@example.net",
+    "term_effective": "2026-10-02",
+    "term_expiration": "2027-04-02",
+    "original_inception": "2026-10-02",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2019,
+        "make": "Ford",
+        "model": "Fusion SE",
+        "vin": "3FA6P0HD7KR170336",
+        "garaging_zip": "23991",
+        "plate": "VA BMF-2450"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 500,
+      "comprehensive_deductible": 500
+    },
+    "endorsements": [
+      {
+        "code": "LM-PA-RR",
+        "name": "Rental Reimbursement",
+        "limit": "$40/day, $1,200 max"
+      }
+    ],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [
+      {
+        "date": "2026-10-02",
+        "change": "New business - policy issued online"
+      }
+    ],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-PA-2024-085526",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Lisa Moreno"
+    ],
+    "mailing_address": "1522 Commons Blvd, Riverton, VA 23992",
+    "phone": "(804) 555-0113",
+    "email": "lisa.moreno@example.com",
+    "term_effective": "2026-09-18",
+    "term_expiration": "2027-03-18",
+    "original_inception": "2024-03-18",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2021,
+        "make": "Mazda",
+        "model": "CX-5 Touring",
+        "vin": "JM3KFBCM1M0431087",
+        "garaging_zip": "23992",
+        "plate": "VA LMR-1522"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 500,
+      "comprehensive_deductible": 500
+    },
+    "endorsements": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-PA-2023-077804",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Gregory Hall"
+    ],
+    "mailing_address": "9 Brookside Ln, Brookhaven, VA 23993",
+    "phone": "(804) 555-0124",
+    "email": "greg.hall@example.org",
+    "term_effective": "2026-07-22",
+    "term_expiration": "2027-01-22",
+    "original_inception": "2023-01-22",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2023,
+        "make": "Toyota",
+        "model": "RAV4 XLE",
+        "vin": "2T3P1RFV0PW384629",
+        "garaging_zip": "23993",
+        "plate": "VA GHR-0904"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 500,
+      "comprehensive_deductible": 500
+    },
+    "endorsements": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-PA-2025-101876",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Michael Brennan"
+    ],
+    "mailing_address": "87 Sawmill Rd, Millbrook, VA 23990",
+    "phone": "(804) 555-0147",
+    "email": "mike.brennan@example.com",
+    "term_effective": "2026-08-03",
+    "term_expiration": "2027-02-03",
+    "original_inception": "2025-08-03",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2018,
+        "make": "Ford",
+        "model": "F-150 XLT",
+        "vin": "1FTEW1EP4JFB52618",
+        "garaging_zip": "23990",
+        "plate": "VA MKB-8718"
+      },
+      {
+        "veh_no": 2,
+        "year": 2016,
+        "make": "Toyota",
+        "model": "Corolla LE",
+        "vin": "2T1BURHE9GC605533",
+        "garaging_zip": "23990",
+        "plate": "VA MKB-1633"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 500,
+      "comprehensive_deductible": 500
+    },
+    "endorsements": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-PA-2024-090017",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Grace Liu"
+    ],
+    "mailing_address": "3301 Market St Apt 7C, Millbrook, VA 23990",
+    "phone": "(804) 555-0135",
+    "email": "grace.liu@example.net",
+    "term_effective": "2026-09-01",
+    "term_expiration": "2027-03-01",
+    "original_inception": "2024-09-01",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2022,
+        "make": "Kia",
+        "model": "Forte LXS",
+        "vin": "3KPF24AD7NE472210",
+        "garaging_zip": "23990",
+        "plate": "VA GLF-3301"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 500,
+      "comprehensive_deductible": 250
+    },
+    "endorsements": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-PA-2025-108845",
+    "line": "AUTO",
+    "form": "LM-PA-01 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "James Whitaker"
+    ],
+    "mailing_address": "140 Ridgeline Dr, Brookhaven, VA 23993",
+    "phone": "(804) 555-0146",
+    "email": "jwhitaker@example.com",
+    "term_effective": "2026-05-12",
+    "term_expiration": "2026-11-12",
+    "original_inception": "2025-05-12",
+    "vehicles": [
+      {
+        "veh_no": 1,
+        "year": 2023,
+        "make": "Honda",
+        "model": "Accord EX",
+        "vin": "1HGCY1F36PA011752",
+        "garaging_zip": "23993",
+        "plate": "VA JWA-1402"
+      }
+    ],
+    "coverages": {
+      "bodily_injury": "100,000/300,000",
+      "property_damage": 100000,
+      "medical_payments": 5000,
+      "uninsured_motorist": "100,000/300,000",
+      "uninsured_motorist_pd_deductible": 200,
+      "collision_deductible": 500,
+      "comprehensive_deductible": 500
+    },
+    "endorsements": [
+      {
+        "code": "LM-PA-RR",
+        "name": "Rental Reimbursement",
+        "limit": "$40/day, $1,200 max"
+      }
+    ],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "lienholders": []
+  },
+  {
+    "policy_number": "LM-HO-2024-210334",
+    "line": "HOME",
+    "form": "LM-HO-03 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Nathan Park",
+      "Julie Park"
+    ],
+    "property_address": "52 Juniper Ct, Millbrook, VA 23990",
+    "mailing_address": "52 Juniper Ct, Millbrook, VA 23990",
+    "phone": "(804) 555-0157",
+    "email": "nathan.park@example.com",
+    "term_effective": "2026-04-01",
+    "term_expiration": "2027-04-01",
+    "original_inception": "2024-04-01",
+    "dwelling": {
+      "year_built": 2008,
+      "construction": "Frame",
+      "roof": "Asphalt shingle",
+      "roof_year": 2019,
+      "sq_ft": 2350
+    },
+    "coverages": {
+      "A_dwelling": 380000,
+      "B_other_structures": 38000,
+      "C_personal_property": 190000,
+      "D_loss_of_use": 76000,
+      "E_personal_liability": 300000,
+      "F_medical_payments": 5000
+    },
+    "deductibles": {
+      "all_peril": 1000,
+      "wind_hail": {
+        "type": "percent_of_A",
+        "percent": 1,
+        "amount": 3800
+      }
+    },
+    "endorsements": [
+      {
+        "code": "LM-HO-WB",
+        "name": "Water Backup and Sump Discharge",
+        "limit": 10000
+      },
+      {
+        "code": "LM-HO-RCC",
+        "name": "Replacement Cost - Personal Property"
+      }
+    ],
+    "scheduled_items": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "mortgagee": null
+  },
+  {
+    "policy_number": "LM-HO-2023-198871",
+    "line": "HOME",
+    "form": "LM-HO-03 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Carmen Delgado"
+    ],
+    "property_address": "16 Millers Creek Rd, Brookhaven, VA 23993",
+    "mailing_address": "16 Millers Creek Rd, Brookhaven, VA 23993",
+    "phone": "(804) 555-0168",
+    "email": "carmen.delgado@example.org",
+    "term_effective": "2026-03-15",
+    "term_expiration": "2027-03-15",
+    "original_inception": "2023-03-15",
+    "dwelling": {
+      "year_built": 1996,
+      "construction": "Frame",
+      "roof": "Asphalt shingle",
+      "roof_year": 2015,
+      "sq_ft": 2780,
+      "notes": "Finished basement; property backs onto Millers Creek"
+    },
+    "coverages": {
+      "A_dwelling": 310000,
+      "B_other_structures": 31000,
+      "C_personal_property": 155000,
+      "D_loss_of_use": 62000,
+      "E_personal_liability": 300000,
+      "F_medical_payments": 5000
+    },
+    "deductibles": {
+      "all_peril": 1000,
+      "wind_hail": {
+        "type": "same_as_all_peril",
+        "amount": 1000
+      }
+    },
+    "endorsements": [
+      {
+        "code": "LM-HO-WB",
+        "name": "Water Backup and Sump Discharge",
+        "limit": 10000
+      }
+    ],
+    "scheduled_items": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "mortgagee": null
+  },
+  {
+    "policy_number": "LM-HO-2025-224410",
+    "line": "HOME",
+    "form": "LM-HO-03 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Thomas Wright"
+    ],
+    "property_address": "702 Cobblestone Way, Riverton, VA 23992",
+    "mailing_address": "702 Cobblestone Way, Riverton, VA 23992",
+    "phone": "(804) 555-0179",
+    "email": "t.wright@example.net",
+    "term_effective": "2026-02-10",
+    "term_expiration": "2027-02-10",
+    "original_inception": "2025-02-10",
+    "dwelling": {
+      "year_built": 1988,
+      "construction": "Brick veneer",
+      "roof": "Asphalt shingle",
+      "roof_year": 2012,
+      "sq_ft": 2100
+    },
+    "coverages": {
+      "A_dwelling": 295000,
+      "B_other_structures": 29500,
+      "C_personal_property": 147500,
+      "D_loss_of_use": 59000,
+      "E_personal_liability": 300000,
+      "F_medical_payments": 5000
+    },
+    "deductibles": {
+      "all_peril": 1000,
+      "wind_hail": {
+        "type": "same_as_all_peril",
+        "amount": 1000
+      }
+    },
+    "endorsements": [],
+    "scheduled_items": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "mortgagee": null
+  },
+  {
+    "policy_number": "LM-HO-2022-187655",
+    "line": "HOME",
+    "form": "LM-HO-03 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Linh Nguyen",
+      "Bao Nguyen"
+    ],
+    "property_address": "1180 Sycamore Dr, Millbrook, VA 23990",
+    "mailing_address": "1180 Sycamore Dr, Millbrook, VA 23990",
+    "phone": "(804) 555-0180",
+    "email": "linh.nguyen@example.com",
+    "term_effective": "2026-06-01",
+    "term_expiration": "2027-06-01",
+    "original_inception": "2022-06-01",
+    "dwelling": {
+      "year_built": 2004,
+      "construction": "Frame",
+      "roof": "Architectural shingle",
+      "roof_year": 2018,
+      "sq_ft": 2400
+    },
+    "coverages": {
+      "A_dwelling": 420000,
+      "B_other_structures": 42000,
+      "C_personal_property": 210000,
+      "D_loss_of_use": 84000,
+      "E_personal_liability": 300000,
+      "F_medical_payments": 5000
+    },
+    "deductibles": {
+      "all_peril": 1000,
+      "wind_hail": {
+        "type": "percent_of_A",
+        "percent": 1,
+        "amount": 4200
+      }
+    },
+    "endorsements": [
+      {
+        "code": "LM-HO-RCC",
+        "name": "Replacement Cost - Personal Property"
+      }
+    ],
+    "scheduled_items": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "mortgagee": "Riverton Community Bank, ISAOA"
+  },
+  {
+    "policy_number": "LM-HO-2024-205519",
+    "line": "HOME",
+    "form": "LM-HO-03 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Harold Simmons",
+      "Betty Simmons"
+    ],
+    "property_address": "33 Orchard Hill Rd, Ashford, VA 23991",
+    "mailing_address": "33 Orchard Hill Rd, Ashford, VA 23991",
+    "phone": "(804) 555-0190",
+    "email": "harold.simmons@example.net",
+    "term_effective": "2026-01-15",
+    "term_expiration": "2027-01-15",
+    "original_inception": "2024-01-15",
+    "dwelling": {
+      "year_built": 1979,
+      "construction": "Frame",
+      "roof": "Asphalt shingle",
+      "roof_year": 2006,
+      "sq_ft": 1950
+    },
+    "coverages": {
+      "A_dwelling": 350000,
+      "B_other_structures": 35000,
+      "C_personal_property": 175000,
+      "D_loss_of_use": 70000,
+      "E_personal_liability": 300000,
+      "F_medical_payments": 5000
+    },
+    "deductibles": {
+      "all_peril": 1000,
+      "wind_hail": {
+        "type": "percent_of_A",
+        "percent": 2,
+        "amount": 7000
+      }
+    },
+    "endorsements": [],
+    "scheduled_items": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "mortgagee": null
+  },
+  {
+    "policy_number": "LM-HO-2023-201147",
+    "line": "HOME",
+    "form": "LM-HO-03 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Aisha Thompson"
+    ],
+    "property_address": "2416 Lakeview Ter, Riverton, VA 23992",
+    "mailing_address": "2416 Lakeview Ter, Riverton, VA 23992",
+    "phone": "(804) 555-0101",
+    "email": "aisha.thompson@example.com",
+    "term_effective": "2026-05-05",
+    "term_expiration": "2027-05-05",
+    "original_inception": "2023-05-05",
+    "dwelling": {
+      "year_built": 2001,
+      "construction": "Frame",
+      "roof": "Asphalt shingle",
+      "roof_year": 2017,
+      "sq_ft": 1680
+    },
+    "coverages": {
+      "A_dwelling": 265000,
+      "B_other_structures": 26500,
+      "C_personal_property": 132500,
+      "D_loss_of_use": 53000,
+      "E_personal_liability": 300000,
+      "F_medical_payments": 5000
+    },
+    "deductibles": {
+      "all_peril": 1000,
+      "wind_hail": {
+        "type": "same_as_all_peril",
+        "amount": 1000
+      }
+    },
+    "endorsements": [
+      {
+        "code": "LM-HO-SPP",
+        "name": "Scheduled Personal Property"
+      }
+    ],
+    "scheduled_items": [
+      {
+        "item": "Engagement ring - platinum solitaire, 1.52 ct round brilliant diamond",
+        "class": "Jewelry",
+        "agreed_value": 4000,
+        "appraisal_date": "2023-02-14"
+      }
+    ],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "mortgagee": null
+  },
+  {
+    "policy_number": "LM-HO-2024-209902",
+    "line": "HOME",
+    "form": "LM-HO-03 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Derek Vaughn"
+    ],
+    "property_address": "905 Granite Ln, Millbrook, VA 23990",
+    "mailing_address": "905 Granite Ln, Millbrook, VA 23990",
+    "phone": "(804) 555-0114",
+    "email": "derek.vaughn@example.net",
+    "term_effective": "2026-03-01",
+    "term_expiration": "2027-03-01",
+    "original_inception": "2024-03-01",
+    "dwelling": {
+      "year_built": 1992,
+      "construction": "Frame",
+      "roof": "Asphalt shingle",
+      "roof_year": 2016,
+      "sq_ft": 1540
+    },
+    "coverages": {
+      "A_dwelling": 240000,
+      "B_other_structures": 24000,
+      "C_personal_property": 175000,
+      "D_loss_of_use": 48000,
+      "E_personal_liability": 300000,
+      "F_medical_payments": 5000
+    },
+    "deductibles": {
+      "all_peril": 1000,
+      "wind_hail": {
+        "type": "same_as_all_peril",
+        "amount": 1000
+      }
+    },
+    "endorsements": [],
+    "scheduled_items": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [
+      {
+        "date": "2026-10-04",
+        "change": "Coverage C (personal property) increased from $100,000 to $175,000 - online self-service request"
+      }
+    ],
+    "mortgagee": null
+  },
+  {
+    "policy_number": "LM-HO-2025-218863",
+    "line": "HOME",
+    "form": "LM-HO-03 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Patricia O'Neill",
+      "Samuel O'Neill"
+    ],
+    "property_address": "61 Hawthorn Rd, Ashford, VA 23991",
+    "mailing_address": "61 Hawthorn Rd, Ashford, VA 23991",
+    "phone": "(804) 555-0125",
+    "email": "pat.oneill@example.org",
+    "term_effective": "2026-07-01",
+    "term_expiration": "2027-07-01",
+    "original_inception": "2025-07-01",
+    "dwelling": {
+      "year_built": 1999,
+      "construction": "Frame",
+      "roof": "Asphalt shingle",
+      "roof_year": 2014,
+      "sq_ft": 2050,
+      "notes": "Detached two-car garage"
+    },
+    "coverages": {
+      "A_dwelling": 280000,
+      "B_other_structures": 28000,
+      "C_personal_property": 140000,
+      "D_loss_of_use": 56000,
+      "E_personal_liability": 300000,
+      "F_medical_payments": 5000
+    },
+    "deductibles": {
+      "all_peril": 1000,
+      "wind_hail": {
+        "type": "percent_of_A",
+        "percent": 1,
+        "amount": 2800
+      }
+    },
+    "endorsements": [],
+    "scheduled_items": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "mortgagee": null
+  },
+  {
+    "policy_number": "LM-HO-2021-176540",
+    "line": "HOME",
+    "form": "LM-HO-03 (06/25)",
+    "status": "ACTIVE",
+    "named_insureds": [
+      "Michael J. Brennan"
+    ],
+    "property_address": "12 Ferry Landing Rd, Riverton, VA 23992",
+    "mailing_address": "12 Ferry Landing Rd, Riverton, VA 23992",
+    "phone": "(804) 555-0136",
+    "email": "mjbrennan.riverton@example.org",
+    "term_effective": "2026-09-20",
+    "term_expiration": "2027-09-20",
+    "original_inception": "2021-09-20",
+    "dwelling": {
+      "year_built": 2010,
+      "construction": "Frame",
+      "roof": "Asphalt shingle",
+      "roof_year": 2010,
+      "sq_ft": 2600
+    },
+    "coverages": {
+      "A_dwelling": 330000,
+      "B_other_structures": 33000,
+      "C_personal_property": 165000,
+      "D_loss_of_use": 66000,
+      "E_personal_liability": 300000,
+      "F_medical_payments": 5000
+    },
+    "deductibles": {
+      "all_peril": 1000,
+      "wind_hail": {
+        "type": "percent_of_A",
+        "percent": 1,
+        "amount": 3300
+      }
+    },
+    "endorsements": [],
+    "scheduled_items": [],
+    "agent": "DIRECT",
+    "cancellation": null,
+    "payment_history": [],
+    "change_history": [],
+    "mortgagee": null
+  }
+]

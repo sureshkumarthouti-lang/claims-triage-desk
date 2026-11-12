@@ -1,0 +1,10 @@
+claim_number,policy_number,insured,line,date_of_loss,reported_date,loss_cause,description,status,paid_amount,adjuster,reported_by,asset
+LM-CL-2023-002210,LM-PA-2022-064410,Robert Chen,AUTO,2023-04-18,2023-04-18,collision,Rear-ended another vehicle in stop-and-go traffic on Route 33,CLOSED,2400,M. Grant,Insured (phone),2014 Honda Civic
+LM-CL-2024-002876,LM-PA-2023-077804,Gregory Hall,AUTO,2024-05-02,2024-05-03,glass,Windshield crack from road debris,CLOSED,610,Fast-track desk,Insured (web),2023 Toyota RAV4
+LM-CL-2024-001290,LM-HO-2024-209902,Derek Vaughn,HOME,2024-03-12,2024-03-13,theft,Bicycle and power tools stolen from detached shed,CLOSED,2100,S. Patel,Insured (email),905 Granite Ln
+LM-CL-2025-000318,LM-HO-2024-209902,Derek Vaughn,HOME,2025-01-27,2025-01-28,theft,Laptop and tablet stolen from vehicle parked in driveway,CLOSED,1600,S. Patel,Insured (email),905 Granite Ln
+LM-CL-2025-003655,LM-HO-2024-209902,Derek Vaughn,HOME,2025-09-08,2025-09-09,burglary,"Rear door forced; television, game console and speakers taken",CLOSED,3900,T. Okoro,Insured (email),905 Granite Ln
+LM-CL-2024-003012,LM-HO-2023-198871,Carmen Delgado,HOME,2024-08-19,2024-08-19,water_backup,Sump pump failed during power outage; water backed up into basement (paid under LM-HO-WB),CLOSED,3450,Fast-track desk,Insured (phone),16 Millers Creek Rd
+LM-CL-2026-004417,LM-PA-2024-085526,Lisa Moreno,AUTO,2026-10-20,2026-10-21,collision,Parked vehicle sideswiped by unknown driver at Riverton Commons (hit-and-run); police report RPD-26-120115,OPEN,0,R. Alvarez,Insured (phone),2021 Mazda CX-5
+LM-CL-2025-002230,LM-PA-2025-108845,James Whitaker,AUTO,2025-11-14,2025-11-14,collision,Low-speed backing collision in parking lot,CLOSED,1180,Fast-track desk,Insured (web),2023 Honda Accord
+LM-CL-2022-001845,LM-HO-2021-176540,Michael J. Brennan,HOME,2022-04-07,2022-04-08,wind,Wind damage to siding and gutters,CLOSED,2950,M. Grant,Insured (phone),12 Ferry Landing Rd

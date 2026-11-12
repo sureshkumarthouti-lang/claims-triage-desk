@@ -1,0 +1,31 @@
+{
+  "submission_id": "SUB-1004",
+  "channel": "email",
+  "received_at": "2026-10-19T21:14:05-04:00",
+  "files": [
+    {
+      "name": "intake_email.txt",
+      "bytes": 1643
+    },
+    {
+      "name": "IMG_7702.jpg",
+      "bytes": 434760
+    },
+    {
+      "name": "IMG_7703.jpg",
+      "bytes": 430998
+    },
+    {
+      "name": "Police_Report_MPD-26-07731.pdf",
+      "bytes": 45601
+    },
+    {
+      "name": "MRMC_Statement_10182026.pdf",
+      "bytes": 45522
+    },
+    {
+      "name": "MCC_Estimate_RO-26-4398.pdf",
+      "bytes": 46738
+    }
+  ]
+}

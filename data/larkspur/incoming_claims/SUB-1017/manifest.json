@@ -1,0 +1,39 @@
+{
+  "submission_id": "SUB-1017",
+  "channel": "web_form",
+  "received_at": "2026-10-25T09:40:12-04:00",
+  "files": [
+    {
+      "name": "fnol_web_form.pdf",
+      "bytes": 45737
+    },
+    {
+      "name": "web_submission.json",
+      "bytes": 1422
+    },
+    {
+      "name": "IMG_1580.jpg",
+      "bytes": 411177
+    },
+    {
+      "name": "IMG_1581.jpg",
+      "bytes": 388239
+    },
+    {
+      "name": "IMG_1582.jpg",
+      "bytes": 412688
+    },
+    {
+      "name": "MFR_Incident_Report_26-1187.pdf",
+      "bytes": 44994
+    },
+    {
+      "name": "Oakridge_Estimate_OFW-26-0451.pdf",
+      "bytes": 46554
+    },
+    {
+      "name": "Contents_Inventory_Nguyen.pdf",
+      "bytes": 45545
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "submission_id": "SUB-1020",
+  "channel": "email",
+  "received_at": "2026-10-28T15:44:12-04:00",
+  "files": [
+    {
+      "name": "intake_email.txt",
+      "bytes": 862
+    },
+    {
+      "name": "IMG_5133.jpg",
+      "bytes": 410779
+    },
+    {
+      "name": "IMG_5134.jpg",
+      "bytes": 408942
+    },
+    {
+      "name": "MPD_Report_26-08190.pdf",
+      "bytes": 45354
+    },
+    {
+      "name": "Stolen_Items_List.pdf",
+      "bytes": 44985
+    },
+    {
+      "name": "Receipt_TechHub.jpg",
+      "bytes": 121308
+    },
+    {
+      "name": "Receipt_Brightway.jpg",
+      "bytes": 125441
+    }
+  ]
+}

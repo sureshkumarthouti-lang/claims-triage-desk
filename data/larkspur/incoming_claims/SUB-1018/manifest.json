@@ -1,0 +1,23 @@
+{
+  "submission_id": "SUB-1018",
+  "channel": "email",
+  "received_at": "2026-11-03T13:37:50-05:00",
+  "files": [
+    {
+      "name": "intake_email.txt",
+      "bytes": 1010
+    },
+    {
+      "name": "IMG_0322.jpg",
+      "bytes": 438407
+    },
+    {
+      "name": "IMG_0323.jpg",
+      "bytes": 428190
+    },
+    {
+      "name": "SummitPeak_Estimate_SPR-26-118.pdf",
+      "bytes": 45821
+    }
+  ]
+}

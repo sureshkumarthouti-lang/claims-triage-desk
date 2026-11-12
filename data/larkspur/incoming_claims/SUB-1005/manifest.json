@@ -1,0 +1,31 @@
+{
+  "submission_id": "SUB-1005",
+  "channel": "email",
+  "received_at": "2026-10-13T07:58:30-04:00",
+  "files": [
+    {
+      "name": "intake_email.txt",
+      "bytes": 1037
+    },
+    {
+      "name": "IMG_1205.jpg",
+      "bytes": 428433
+    },
+    {
+      "name": "IMG_1206.jpg",
+      "bytes": 430510
+    },
+    {
+      "name": "IMG_1207.jpg",
+      "bytes": 435141
+    },
+    {
+      "name": "ACSO_Report_26-04412.pdf",
+      "bytes": 209297
+    },
+    {
+      "name": "BBW_Estimate_26-0912.pdf",
+      "bytes": 46798
+    }
+  ]
+}

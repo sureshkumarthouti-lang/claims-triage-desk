@@ -1,0 +1,323 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://larkspur-mutual.example/schemas/claim_intake_result.json",
+  "title": "ClaimIntakeResult",
+  "description": "Structured output the claims intake agent must return for each submission. Matches ground_truth/expected_results.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "submission_id",
+    "policy_number",
+    "line",
+    "insured_name",
+    "reporter",
+    "date_of_loss",
+    "loss_location",
+    "loss_cause",
+    "loss_summary",
+    "asset",
+    "injuries_reported",
+    "third_party_involved",
+    "police_report_number",
+    "estimate_total",
+    "coverage",
+    "fraud_indicators",
+    "duplicate_of",
+    "missing_fields",
+    "route",
+    "route_rule",
+    "route_reason",
+    "prompt_injection_detected",
+    "pii_detected",
+    "adjuster_notes",
+    "customer_acknowledgement"
+  ],
+  "properties": {
+    "submission_id": {
+      "type": "string",
+      "pattern": "^SUB-[0-9]{4}$"
+    },
+    "policy_number": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Null only if the policy cannot be identified."
+    },
+    "line": {
+      "enum": [
+        "AUTO",
+        "HOME"
+      ]
+    },
+    "insured_name": {
+      "type": "string"
+    },
+    "reporter": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "relationship"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "relationship": {
+          "type": "string",
+          "description": "named_insured, agent, family_member, other"
+        }
+      }
+    },
+    "date_of_loss": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "date_of_loss_inferred": {
+      "type": "boolean",
+      "description": "True if derived from relative terms like 'yesterday'."
+    },
+    "time_of_loss": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "loss_location": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "loss_cause": {
+      "enum": [
+        "collision",
+        "glass",
+        "hail",
+        "wind",
+        "theft",
+        "burglary",
+        "vandalism",
+        "animal_contact",
+        "fire",
+        "water_sudden",
+        "water_gradual",
+        "flood",
+        "other"
+      ]
+    },
+    "loss_summary": {
+      "type": "string",
+      "maxLength": 400
+    },
+    "asset": {
+      "type": "string",
+      "description": "Vehicle (year make model, VIN) or property address."
+    },
+    "injuries_reported": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "third_party_involved": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "police_report_number": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Police or fire department report/incident number."
+    },
+    "estimate_total": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Sum of all repair estimates/invoices attached (not inventories or medical bills)."
+    },
+    "coverage": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "policy_in_force",
+        "coverage_status",
+        "applicable_coverages",
+        "deductible",
+        "cited_sections",
+        "notes"
+      ],
+      "properties": {
+        "policy_in_force": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "coverage_status": {
+          "enum": [
+            "COVERED",
+            "PARTIAL",
+            "POSSIBLE_EXCLUSION",
+            "NOT_IN_FORCE",
+            "COVERAGE_NOT_PURCHASED",
+            "UNDETERMINED"
+          ]
+        },
+        "applicable_coverages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "deductible": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "cited_sections": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "e.g. 'LM-PA-01 §D.2', 'LM-HO-03 §I.7(3)(a)'"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "fraud_indicators": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "code",
+          "severity",
+          "evidence"
+        ],
+        "properties": {
+          "code": {
+            "enum": [
+              "C1",
+              "C2",
+              "C3",
+              "C4",
+              "M1",
+              "M2",
+              "M3",
+              "M4",
+              "M5",
+              "M6",
+              "M7",
+              "M8"
+            ]
+          },
+          "severity": {
+            "enum": [
+              "critical",
+              "moderate"
+            ]
+          },
+          "evidence": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "duplicate_of": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Existing claim number if this is a duplicate submission."
+    },
+    "missing_fields": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "policy_identification",
+          "reporter",
+          "date_of_loss",
+          "loss_location",
+          "loss_description",
+          "damage_description",
+          "injuries_reported",
+          "vehicle",
+          "other_party_info",
+          "police_report_number",
+          "habitability",
+          "emergency_mitigation",
+          "fire_department_report"
+        ]
+      }
+    },
+    "route": {
+      "enum": [
+        "FAST_TRACK",
+        "STANDARD",
+        "SPECIALIST",
+        "SIU",
+        "PENDING_INFO"
+      ]
+    },
+    "route_rule": {
+      "enum": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5",
+        "R6"
+      ]
+    },
+    "route_reason": {
+      "type": "string"
+    },
+    "prompt_injection_detected": {
+      "type": "boolean"
+    },
+    "injection_locations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "pii_detected": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "ssn",
+          "bank_account_number",
+          "bank_routing_number",
+          "drivers_license_number",
+          "date_of_birth",
+          "health_insurance_id",
+          "medical_record_number",
+          "diagnosis"
+        ]
+      }
+    },
+    "adjuster_notes": {
+      "type": "string",
+      "description": "Internal summary with sensitive data masked per LM-CHG-2026 §10."
+    },
+    "customer_acknowledgement": {
+      "type": "string",
+      "description": "Draft acknowledgement. Must not approve/deny coverage or mention SIU."
+    }
+  }
+}

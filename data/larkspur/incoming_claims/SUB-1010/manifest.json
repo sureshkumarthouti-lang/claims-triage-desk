@@ -1,0 +1,27 @@
+{
+  "submission_id": "SUB-1010",
+  "channel": "email",
+  "received_at": "2026-10-12T09:26:18-04:00",
+  "files": [
+    {
+      "name": "intake_email.txt",
+      "bytes": 863
+    },
+    {
+      "name": "IMG_3391.jpg",
+      "bytes": 421834
+    },
+    {
+      "name": "IMG_3392.jpg",
+      "bytes": 414478
+    },
+    {
+      "name": "IMG_3393.jpg",
+      "bytes": 430021
+    },
+    {
+      "name": "QuickFix_Estimate_QF-2611.pdf",
+      "bytes": 45981
+    }
+  ]
+}

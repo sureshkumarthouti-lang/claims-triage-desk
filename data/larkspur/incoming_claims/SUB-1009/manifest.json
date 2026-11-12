@@ -1,0 +1,27 @@
+{
+  "submission_id": "SUB-1009",
+  "channel": "agent_email",
+  "received_at": "2026-10-17T10:02:44-04:00",
+  "files": [
+    {
+      "name": "intake_email.txt",
+      "bytes": 1375
+    },
+    {
+      "name": "IMG_4410.jpg",
+      "bytes": 640015
+    },
+    {
+      "name": "IMG_4411.jpg",
+      "bytes": 639434
+    },
+    {
+      "name": "MPD_Report_26-07902.pdf",
+      "bytes": 45549
+    },
+    {
+      "name": "MCC_Estimate_RO-26-4365.pdf",
+      "bytes": 46027
+    }
+  ]
+}

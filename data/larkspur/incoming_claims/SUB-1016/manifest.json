@@ -1,0 +1,27 @@
+{
+  "submission_id": "SUB-1016",
+  "channel": "email",
+  "received_at": "2026-10-20T19:03:27-04:00",
+  "files": [
+    {
+      "name": "intake_email.txt",
+      "bytes": 998
+    },
+    {
+      "name": "IMG_9104.jpg",
+      "bytes": 429906
+    },
+    {
+      "name": "IMG_9105.jpg",
+      "bytes": 438502
+    },
+    {
+      "name": "Hometown_Plumbing_Invoice_HP-7781.pdf",
+      "bytes": 45427
+    },
+    {
+      "name": "Riverton_Builders_Estimate_RB-26-212.pdf",
+      "bytes": 45940
+    }
+  ]
+}

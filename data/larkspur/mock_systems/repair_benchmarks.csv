@@ -1,0 +1,99 @@
+code,category,item,unit,low,high,midpoint,region,year
+LAB-BODY,Auto labor,Body labor rate,per hour,54,62,58.0,Central VA,2026
+LAB-REFINISH,Auto labor,Refinish (paint) labor rate,per hour,54,62,58.0,Central VA,2026
+LAB-FRAME,Auto labor,Frame labor rate,per hour,68,80,74.0,Central VA,2026
+LAB-MECH,Auto labor,Mechanical labor rate,per hour,105,125,115.0,Central VA,2026
+MAT-PAINT,Auto materials,Paint & materials,per refinish hour,36,42,39.0,Central VA,2026
+SHOP-WASTE,Auto materials,Hazardous waste / shop supplies,flat,15,60,37.5,Central VA,2026
+P-FBUMPER,Auto parts,Front bumper cover,each,380,520,450.0,Central VA,2026
+P-RBUMPER,Auto parts,Rear bumper cover,each,360,500,430.0,Central VA,2026
+P-REINF,Auto parts,Bumper reinforcement bar,each,220,340,280.0,Central VA,2026
+P-ABSORB,Auto parts,Bumper energy absorber,each,70,130,100.0,Central VA,2026
+P-HEAD-HAL,Auto parts,Headlamp assembly - halogen,each,250,420,335.0,Central VA,2026
+P-HEAD-LED,Auto parts,Headlamp assembly - LED,each,650,1100,875.0,Central VA,2026
+P-TAIL,Auto parts,Tail lamp assembly,each,160,300,230.0,Central VA,2026
+P-HOOD,Auto parts,Hood panel,each,450,650,550.0,Central VA,2026
+P-FENDER,Auto parts,Front fender,each,230,380,305.0,Central VA,2026
+P-LINER,Auto parts,Fender liner,each,50,110,80.0,Central VA,2026
+P-GRILLE,Auto parts,Grille assembly,each,180,320,250.0,Central VA,2026
+P-RADSUP,Auto parts,Radiator support,each,380,560,470.0,Central VA,2026
+P-RADIATOR,Auto parts,Radiator,each,260,420,340.0,Central VA,2026
+P-CONDENSER,Auto parts,A/C condenser,each,290,460,375.0,Central VA,2026
+P-FDOOR,Auto parts,Front door shell,each,650,950,800.0,Central VA,2026
+P-RDOOR,Auto parts,Rear door shell,each,620,900,760.0,Central VA,2026
+P-DOORGLASS,Auto parts,Door glass (front or rear),each,180,340,260.0,Central VA,2026
+P-MIRROR,Auto parts,Side mirror assembly,each,260,480,370.0,Central VA,2026
+P-MOLDING,Auto parts,Door body side molding,each,60,120,90.0,Central VA,2026
+P-SENSOR,Auto parts,Parking sensor,each,120,220,170.0,Central VA,2026
+P-WINDSHIELD,Auto parts,Windshield (with sensor/camera bracket),each,320,420,370.0,Central VA,2026
+P-GLASSKIT,Auto parts,Urethane & molding kit,each,20,45,32.5,Central VA,2026
+P-CLIPS,Auto parts,Trim clip kit,each,10,30,20.0,Central VA,2026
+P-SUNROOF,Auto parts,Sunroof glass,each,900,1400,1150.0,Central VA,2026
+P-SUNSEAL,Auto parts,Sunroof seal kit,each,40,90,65.0,Central VA,2026
+P-AIRBAG-DRV,Auto parts,Driver front airbag,each,650,950,800.0,Central VA,2026
+P-AIRBAG-PASS,Auto parts,Passenger front airbag,each,750,1100,925.0,Central VA,2026
+P-AIRBAG-CURT,Auto parts,Side curtain airbag,each,900,1400,1150.0,Central VA,2026
+P-PRETENS,Auto parts,Seat belt pretensioner,each,280,420,350.0,Central VA,2026
+P-ACM,Auto parts,Airbag control module,each,350,600,475.0,Central VA,2026
+P-WHEEL,Auto parts,Alloy wheel,each,280,450,365.0,Central VA,2026
+P-TIRE,Auto parts,Tire,each,160,240,200.0,Central VA,2026
+P-CTRLARM,Auto parts,Lower control arm,each,180,340,260.0,Central VA,2026
+S-ADAS,Auto sublet,ADAS camera/radar calibration,each,180,260,220.0,Central VA,2026
+S-ALIGN,Auto sublet,Wheel alignment,each,100,160,130.0,Central VA,2026
+S-SCAN,Auto sublet,Pre/post repair diagnostic scan,each,100,180,140.0,Central VA,2026
+S-TOW,Auto sublet,Towing,each,125,250,187.5,Central VA,2026
+S-STORAGE,Auto sublet,Vehicle storage,per day,40,65,52.5,Central VA,2026
+S-GLASSVAC,Auto sublet,Glass cleanup / vacuum,each,30,60,45.0,Central VA,2026
+PDR-ROOF-HVY,Hail PDR,PDR roof panel - heavy,each,1100,1700,1400.0,Central VA,2026
+PDR-HOOD-MOD,Hail PDR,PDR hood - moderate,each,450,800,625.0,Central VA,2026
+PDR-FENDER,Hail PDR,PDR fender,each,180,320,250.0,Central VA,2026
+PDR-DOOR,Hail PDR,PDR door,each,200,350,275.0,Central VA,2026
+PDR-LIFTGATE,Hail PDR,PDR liftgate/trunk lid,each,300,480,390.0,Central VA,2026
+PDR-QUARTER,Hail PDR,PDR quarter panel,each,250,420,335.0,Central VA,2026
+H-EXTRACT-HARD,Home mitigation,Water extraction - hard surface,per sq ft,0.75,1.25,1.0,Central VA,2026
+H-EXTRACT-CARPET,Home mitigation,Water extraction - carpet,per sq ft,0.9,1.4,1.15,Central VA,2026
+H-DRYING,Home mitigation,Drying equipment set,per day,450,700,575.0,Central VA,2026
+H-ANTIMICROBIAL,Home mitigation,Antimicrobial application,per sq ft,0.35,0.6,0.47,Central VA,2026
+H-MOLD,Home mitigation,Mold remediation,per sq ft,18,30,24.0,Central VA,2026
+H-BASECAB,Home rebuild,Base cabinets - remove & replace,per LF,280,420,350.0,Central VA,2026
+H-WALLCAB,Home rebuild,Wall cabinets - remove & replace,per LF,240,380,310.0,Central VA,2026
+H-COUNTER-RESET,Home rebuild,Countertop detach & reset,per LF,45,75,60.0,Central VA,2026
+H-COUNTER-GRANITE,Home rebuild,Granite countertop,per sq ft,55,85,70.0,Central VA,2026
+H-LVP,Home rebuild,LVP flooring installed,per sq ft,6.0,8.5,7.25,Central VA,2026
+H-CARPET,Home rebuild,Carpet & pad installed,per sq ft,4.0,6.5,5.25,Central VA,2026
+H-CARPET-REMOVE,Home rebuild,Carpet & pad removal,per sq ft,0.6,1.1,0.85,Central VA,2026
+H-TILE,Home rebuild,Tile floor remove & replace,per sq ft,12,18,15.0,Central VA,2026
+H-SUBFLOOR,Home rebuild,Subfloor replace,per sq ft,6.5,9.0,7.75,Central VA,2026
+H-JOIST,Home rebuild,Sister floor joist,each,220,340,280.0,Central VA,2026
+H-DRYWALL,Home rebuild,Drywall remove & replace,per sq ft,3.8,5.5,4.65,Central VA,2026
+H-FLOODCUT,Home rebuild,Drywall flood cut (2 ft),per LF,18,28,23.0,Central VA,2026
+H-INSUL,Home rebuild,Insulation replace,per sq ft,1.5,2.5,2.0,Central VA,2026
+H-PAINT,Home rebuild,Interior paint,per sq ft,1.2,1.9,1.55,Central VA,2026
+H-BASEBOARD,Home rebuild,Baseboard,per LF,4.5,7.0,5.75,Central VA,2026
+H-TOILET,Home rebuild,Toilet detach & reset,each,180,260,220.0,Central VA,2026
+H-VANITY,Home rebuild,Bathroom vanity remove & replace,each,900,1500,1200.0,Central VA,2026
+H-WATERHEATER,Home rebuild,Water heater replace (50 gal),each,1400,2000,1700.0,Central VA,2026
+H-DEBRIS,Home rebuild,Debris haul / dumpster,each,450,750,600.0,Central VA,2026
+H-PLUMB-SUPPLY,Home plumbing,Supply line replace (service call),each,140,240,190.0,Central VA,2026
+H-PLUMB-WAXRING,Home plumbing,Toilet pull & wax ring replace,each,180,280,230.0,Central VA,2026
+H-PLUMB-FLANGE,Home plumbing,Closet flange replace,each,110,190,150.0,Central VA,2026
+H-BOARDUP,Home fire,Emergency board-up & tarp,each,350,600,475.0,Central VA,2026
+H-PACKOUT,Home fire,Content pack-out & storage,each,2000,4000,3000.0,Central VA,2026
+H-SMOKECLEAN,Home fire,Smoke cleaning walls/ceilings,per sq ft,0.9,1.6,1.25,Central VA,2026
+H-DEMO,Home fire,Kitchen demolition & debris,each,1200,2200,1700.0,Central VA,2026
+H-RANGEHOOD,Home fire,Range hood replace,each,400,900,650.0,Central VA,2026
+H-ELECTRIC,Home fire,Kitchen electrical circuits & fixtures,each,1800,3200,2500.0,Central VA,2026
+H-DUCTCLEAN,Home fire,HVAC duct cleaning,each,450,900,675.0,Central VA,2026
+H-DEODOR,Home fire,Deodorization / thermal fogging,each,350,700,525.0,Central VA,2026
+H-PERMIT-SUP,Home rebuild,Permit & supervision,each,800,1600,1200.0,Central VA,2026
+H-PERMIT,Home rebuild,Building permit (minor),each,100,250,175.0,Central VA,2026
+R-SHINGLE,Roofing,Tear off & replace shingles,per square,450,620,535.0,Central VA,2026
+R-UNDERLAY,Roofing,Synthetic underlayment,per square,35,60,47.5,Central VA,2026
+R-DRIPEDGE,Roofing,Drip edge,per LF,3.5,5.5,4.5,Central VA,2026
+R-RIDGE,Roofing,Ridge cap,per LF,9,14,11.5,Central VA,2026
+R-PIPEBOOT,Roofing,Pipe boot,each,45,90,67.5,Central VA,2026
+R-FRAMING,Structural,Roof framing repair,per sq ft,9,14,11.5,Central VA,2026
+R-SHEATHING,Structural,Roof sheathing replace,per sq ft,2.5,3.8,3.15,Central VA,2026
+R-GUTTER,Exterior,Gutter replace,per LF,8,13,10.5,Central VA,2026
+R-SIDING,Exterior,Siding section repair,each,450,900,675.0,Central VA,2026
+T-REMOVAL,Tree,Tree removal from structure,per tree,600,1500,1050.0,Central VA,2026

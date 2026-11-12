@@ -1,0 +1,12 @@
+vendor_id,name,type,address,phone,drp,siu_watchlist,lat,lon,watchlist_note
+V001,Millbrook Collision Center,Auto body,"1880 Industrial Blvd, Millbrook, VA 23990",(804) 555-0161,True,False,37.6102,-77.5011,
+V002,Riverton Auto Body,Auto body,"455 Canal St, Riverton, VA 23992",(804) 555-0162,True,False,37.5381,-77.4402,
+V003,Ashford Auto Glass,Auto glass,"92 Station Rd, Ashford, VA 23991",(804) 555-0163,True,False,37.6988,-77.3851,
+V004,QuickFix Auto Body & Paint,Auto body,"3120 Turnpike Rd, Ashford, VA 23991",(804) 555-0164,False,True,37.7244,-77.353,Added 2025-11: pattern of estimates priced well above regional benchmarks; two prior SIU referrals.
+V005,Brookhaven Body Works,Auto body,"77 Mill Race Rd, Brookhaven, VA 23993",(804) 555-0165,True,False,37.4859,-77.5874,
+V006,Cedar Lane Restoration,Water mitigation & restoration,"210 Cedar Ln, Millbrook, VA 23990",(804) 555-0172,True,False,37.6231,-77.4876,
+V007,Hometown Plumbing Co.,Plumbing,"18 Front St, Riverton, VA 23992",(804) 555-0173,False,False,37.542,-77.4337,
+V008,Riverton Builders,General contractor,"640 Mill St, Riverton, VA 23992",(804) 555-0174,True,False,37.5446,-77.4389,
+V009,Oakridge Fire & Water Restoration,Fire & water restoration,"1500 Oakridge Pkwy, Millbrook, VA 23990",(804) 555-0175,True,False,37.629,-77.5102,
+V010,Summit Peak Roofing,Roofing,"802 Ridge Rd, Ashford, VA 23991",(804) 555-0176,True,False,37.709,-77.3922,
+V011,Ashford Tree Service,Tree removal,"15 Timber Ln, Ashford, VA 23991",(804) 555-0177,False,False,37.6955,-77.399,

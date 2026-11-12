@@ -1,0 +1,31 @@
+{
+  "submission_id": "SUB-1003",
+  "channel": "web_form",
+  "received_at": "2026-10-23T08:05:33-04:00",
+  "files": [
+    {
+      "name": "fnol_web_form.pdf",
+      "bytes": 45699
+    },
+    {
+      "name": "web_submission.json",
+      "bytes": 1369
+    },
+    {
+      "name": "IMG_3301.jpg",
+      "bytes": 434778
+    },
+    {
+      "name": "IMG_3302.jpg",
+      "bytes": 429083
+    },
+    {
+      "name": "Police_Report_RPD-26-118842.pdf",
+      "bytes": 45564
+    },
+    {
+      "name": "RAB_Estimate_26-1187.pdf",
+      "bytes": 46147
+    }
+  ]
+}

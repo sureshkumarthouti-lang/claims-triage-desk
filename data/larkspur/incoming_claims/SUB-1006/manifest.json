@@ -1,0 +1,19 @@
+{
+  "submission_id": "SUB-1006",
+  "channel": "email",
+  "received_at": "2026-11-02T10:15:22-05:00",
+  "files": [
+    {
+      "name": "intake_email.txt",
+      "bytes": 883
+    },
+    {
+      "name": "IMG_8830.jpg",
+      "bytes": 437225
+    },
+    {
+      "name": "RPD_Report_26-121907.pdf",
+      "bytes": 45308
+    }
+  ]
+}

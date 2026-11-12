@@ -1,0 +1,23 @@
+submission_id,channel,policy_number,line,insured_name,date_of_loss,loss_cause,injuries_reported,third_party_involved,police_report_number,estimate_total,coverage_status,deductible,fraud_indicator_codes,duplicate_of,missing_fields,route,route_rule,prompt_injection_detected,pii_detected
+SUB-1001,email,LM-PA-2025-104233,AUTO,Priya Raman,2026-10-27,glass,False,False,,717.0,COVERED,0,,,,FAST_TRACK,R5,False,
+SUB-1002,email,LM-PA-2024-088190,AUTO,Marcus Bell,2026-10-30,collision,False,False,,1944.1,COVERED,500,,,,FAST_TRACK,R5,False,
+SUB-1003,web_form,LM-PA-2023-071552,AUTO,Elena Sokolova,2026-10-22,collision,False,True,RPD-26-118842,5589.0,COVERED,500,,,,STANDARD,R4,False,drivers_license_number
+SUB-1004,email,LM-PA-2025-112907,AUTO,David Okafor; Angela Okafor,2026-10-18,collision,True,True,MPD-26-07731,8586.5,COVERED,500,,,,SPECIALIST,R2,False,ssn; date_of_birth; health_insurance_id; medical_record_number; diagnosis; drivers_license_number
+SUB-1005,email,LM-PA-2022-064410,AUTO,Robert Chen,2026-10-12,collision,False,False,ACSO-26-04412,11272.0,COVERED,1000,,,,SPECIALIST,R2,False,drivers_license_number
+SUB-1006,email,LM-PA-2025-099318,AUTO,Tasha Greene,2026-11-02,theft,False,False,RPD-26-121907,,COVERED,500,,,,STANDARD,R4,False,
+SUB-1007,email,LM-PA-2025-120044,AUTO,Kevin Doyle,2026-09-29,collision,False,False,,3484.4,NOT_IN_FORCE,,,,,STANDARD,R4,False,
+SUB-1008,email,LM-PA-2024-093371,AUTO,Sandra Whitfield,2026-10-25,collision,False,True,,2269.5,PARTIAL,,,,,STANDARD,R4,False,
+SUB-1009,agent_email,LM-PA-2025-117760,AUTO,Jamal Carter,2026-10-16,collision,False,True,MPD-26-07902,4622.7,POSSIBLE_EXCLUSION,500,,,,STANDARD,R4,False,drivers_license_number
+SUB-1010,email,LM-PA-2026-130512,AUTO,Brandon Mills,2026-10-11,animal_contact,False,False,,8974.5,COVERED,500,C1; M1; M2; M5,,,SIU,R1,False,
+SUB-1011,email,LM-PA-2024-085526,AUTO,Lisa Moreno,2026-10-20,collision,False,False,RPD-26-120115,1624.0,COVERED,500,,LM-CL-2026-004417,,STANDARD,R4,False,
+SUB-1012,email,LM-PA-2023-077804,AUTO,Gregory Hall,2026-10-15,hail,False,False,,6864.4,COVERED,500,,,,STANDARD,R4,True,
+SUB-1013,email,LM-PA-2025-101876,AUTO,Michael Brennan,2026-11-03,collision,,True,,,UNDETERMINED,,,,loss_location; damage_description; injuries_reported; other_party_info; police_report_number,PENDING_INFO,R3,False,
+SUB-1014,email,LM-HO-2024-210334,HOME,Nathan Park; Julie Park,2026-10-28,water_sudden,False,False,,4755.0,COVERED,1000,,,,FAST_TRACK,R5,False,ssn; bank_account_number; bank_routing_number
+SUB-1015,email,LM-HO-2023-198871,HOME,Carmen Delgado,2026-10-09,flood,False,False,,20818.0,POSSIBLE_EXCLUSION,1000,,,,STANDARD,R4,False,
+SUB-1016,email,LM-HO-2025-224410,HOME,Thomas Wright,2026-10-19,water_gradual,False,False,,5869.4,POSSIBLE_EXCLUSION,1000,,,,STANDARD,R4,True,
+SUB-1017,web_form,LM-HO-2022-187655,HOME,Linh Nguyen; Bao Nguyen,2026-10-24,fire,False,False,MFR-26-1187,37556.0,COVERED,1000,,,,SPECIALIST,R2,False,
+SUB-1018,email,LM-HO-2024-205519,HOME,Harold Simmons; Betty Simmons,2026-09-24,wind,False,False,,14642.0,COVERED,7000,M4,,,STANDARD,R4,False,
+SUB-1019,email,LM-HO-2023-201147,HOME,Aisha Thompson,2026-10-08,burglary,False,False,RPD-26-119321,,PARTIAL,1000,,,,STANDARD,R4,False,
+SUB-1020,email,LM-HO-2024-209902,HOME,Derek Vaughn,2026-10-26,burglary,False,False,MPD-26-08190,,COVERED,1000,C1; C2; C3; M1; M3; M6; M8,,,SIU,R1,False,
+SUB-1021,web_form,LM-HO-2025-218863,HOME,Patricia O'Neill; Samuel O'Neill,2026-10-30,wind,False,False,,7113.0,COVERED,2800,,,,STANDARD,R4,False,
+SUB-1022,email,LM-PA-2024-090017,AUTO,Grace Liu,2026-11-01,vandalism,False,False,MPD-26-08244,375.6,COVERED,250,,,,FAST_TRACK,R5,False,

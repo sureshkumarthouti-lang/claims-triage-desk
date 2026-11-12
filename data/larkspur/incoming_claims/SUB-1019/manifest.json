@@ -1,0 +1,39 @@
+{
+  "submission_id": "SUB-1019",
+  "channel": "email",
+  "received_at": "2026-10-09T08:20:04-04:00",
+  "files": [
+    {
+      "name": "intake_email.txt",
+      "bytes": 947
+    },
+    {
+      "name": "IMG_4470.jpg",
+      "bytes": 413213
+    },
+    {
+      "name": "IMG_4471.jpg",
+      "bytes": 412279
+    },
+    {
+      "name": "RPD_Report_26-119321.pdf",
+      "bytes": 204631
+    },
+    {
+      "name": "Stolen_Items_List.pdf",
+      "bytes": 45165
+    },
+    {
+      "name": "Appraisal_Ring_2023.pdf",
+      "bytes": 44793
+    },
+    {
+      "name": "Appraisal_Necklace_2019.pdf",
+      "bytes": 44899
+    },
+    {
+      "name": "Receipt_Laptop.jpg",
+      "bytes": 121464
+    }
+  ]
+}
