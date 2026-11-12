@@ -11,7 +11,8 @@ This capstone is built in 7 stages. Each stage adds one concept and one visible 
 - `knowledge_base/` holds the policy forms and guidelines (`.md` and `.pdf`) and 24 declarations PDFs. This is the RAG corpus.
 - `mock_systems/larkspur_mock.db` is a SQLite database with these tables: policies, policy_vehicles, policy_changes, policy_payments, scheduled_items, claims, claim_photos, vehicle_values, vendors, repair_benchmarks. Prior-claim photos are in `mock_systems/claim_photos/`.
 - `schemas/claim_intake_result.schema.json` is the final output of every claim.
-- `ground_truth/` and `evals/` are the answer key. Never put them in a model's context or in any prompt. Only the eval runner and the Evals page read them, and only to score.
+- `ground_truth/` and `evals/` are the answer key. Never put them in a model's context or in any prompt. Only the eval runner and the Evals page read them, and only to score.   
+- `tools/generator/` contains the scripts that built this dataset, including the answers. Never open, read or import anything in it.
 - The routing rules R1–R6 are in `knowledge_base/guidelines/LM-CHG-2026_Claims_Intake_and_Routing_Guidelines.md` §5. The fraud indicators C1–C4 and M1–M8 are in `LM-SIU-07_Fraud_Indicators_Guide.md`.
 
 ## Golden rule: the model finds facts, code decides

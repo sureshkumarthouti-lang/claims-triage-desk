@@ -1,5 +1,5 @@
-   runs/
-   chroma-data/
-   .env.local
-   node_modules/
-   .next/
+runs/
+chroma-data/
+.env.local
+node_modules/
+.next/
